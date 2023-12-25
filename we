@@ -35,16 +35,16 @@ proxies:
   - {name: 🇹🇷 土耳其1, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-gzgBqbwwebq_l-30_sc-1, password: 1g7g3ggggg}
   - {name: 🇹🇷 土耳其2, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-y15ETzOEj0S_l-30_sc-1, password: 1g7g3ggggg}
   - {name: 🇹🇷 土耳其3, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-yRFgW4XQCUl_l-30_sc-1, password: 1g7g3ggggg}
-  - {name: 🇹🇷 土耳其4, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-O0Ex54cq}
-  - {name: 🇹🇷 土耳其5, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-7lrWVYv1}
-  - {name: 🇹🇷 土耳其6, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-UXBS4gjF}
-  - {name: 🇹🇷 土耳其7, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-0iLcxmRk}
-  - {name: 🇹🇷 土耳其8, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-dZOGMY0X}
-  - {name: 加纳1, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-o5BzxA1s}
-  - {name: 加纳2, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-egz0w3lV}
-  - {name: 加纳3, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-cPbLFlHJ}
-  - {name: 加纳4, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-tsX0Kd3G}
-  - {name: 加纳5, server: 43.130.1.137, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-SNLHADGa}
+  - {name: 🇹🇷 土耳其4, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-O0Ex54cq}
+  - {name: 🇹🇷 土耳其5, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-7lrWVYv1}
+  - {name: 🇹🇷 土耳其6, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-UXBS4gjF}
+  - {name: 🇹🇷 土耳其7, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-0iLcxmRk}
+  - {name: 🇹🇷 土耳其8, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-dZOGMY0X}
+  - {name: 加纳1, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-o5BzxA1s}
+  - {name: 加纳2, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-egz0w3lV}
+  - {name: 加纳3, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-cPbLFlHJ}
+  - {name: 加纳4, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-tsX0Kd3G}
+  - {name: 加纳5, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-SNLHADGa}
   - {name: 🇯🇵 尼日利亚1, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-nKMoHVGi}
   - {name: 🇯🇵 尼日利亚2, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-YU2rPlqS}
   - {name: 🇯🇵 尼日利亚3, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-zCbN3mZ9}
@@ -55,11 +55,11 @@ proxies:
   - {name: 哥伦比亚3, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-veUo7ONB}
   - {name: 哥伦比亚4, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-grYUK23w}
   - {name: 哥伦比亚5, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-tCHilW5O}
-  - {name: 🇯🇵 尼日利亚6, server: 43.130.1.137, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-JzxAETNc}
-  - {name: 🇯🇵 尼日利亚7, server: 43.130.1.137, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-hvMzg8Wn}
-  - {name: 🇯🇵 尼日利亚8, server: 43.130.1.137, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-xkK4tOX0}
-  - {name: 🇯🇵 尼日利亚9, server: 43.130.1.137, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-UAz1OdMa}
-  - {name: 🇯🇵 尼日利亚10, server: 43.130.1.137, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-eH9SN06k}
+  - {name: 🇯🇵 尼日利亚6, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-JzxAETNc}
+  - {name: 🇯🇵 尼日利亚7, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-hvMzg8Wn}
+  - {name: 🇯🇵 尼日利亚8, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-xkK4tOX0}
+  - {name: 🇯🇵 尼日利亚9, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-UAz1OdMa}
+  - {name: 🇯🇵 尼日利亚10, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-eH9SN06k}
   - {name: 922, server: 192.168.31.93, port: 30000, type: socks5}
 proxy-groups:
   - name: Googleplay
