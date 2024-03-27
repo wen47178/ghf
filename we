@@ -55,8 +55,8 @@ proxies:
   - {name: 🇯🇵 尼日利亚8, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-xkK4tOX0}
   - {name: 🇯🇵 尼日利亚9, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-UAz1OdMa}
   - {name: 🇯🇵 尼日利亚10, server: 43.130.1.137, port: 11764, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-eH9SN06k}
-  - {name: 🇯🇵 埃及1, server: 150.109.18.53, port: 30855, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-E8O1mvTd}
-  - {name: 🇯🇵 埃及2, server: 150.109.18.53, port: 30855, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-64Gl3OZr}
+  - {name: 🇯🇵 埃及1, server: 150.109.18.53, port: 30855, type: socks5, username: thojhng, password: VgkIj7Kiy1_country-eg_session-1tBAPrO8}
+  - {name: 🇯🇵 埃及2, server: 150.109.18.53, port: 30855, type: socks5, username: thojhng, password: VgkIj7Kiy1_country-eg_session-6sKZH0x5}
   - {name: 🇯🇵 埃及3, server: 150.109.18.53, port: 30855, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-d2pUHEb5}
   - {name: 🇯🇵 埃及4, server: 150.109.18.53, port: 30855, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-ZcBneUfT}
   - {name: 🇯🇵 埃及5, server: 150.109.18.53, port: 30855, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-FEGyTDoC}
