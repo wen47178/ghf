@@ -20,8 +20,8 @@ proxies:
   - {name: '🇭🇰 香港_04', type: ss, server: gateway.four.91tutu.xyz, port: 29804, cipher: chacha20-ietf-poly1305, password: 0aa24fd7-9bd0-42a2-8692-d58007bd0907, udp: true }
   - {name: '🇭🇰 香港_05', type: ss, server: gateway.one.91tutu.xyz, port: 29805, cipher: chacha20-ietf-poly1305, password: 0aa24fd7-9bd0-42a2-8692-d58007bd0907, udp: true }
   - {name: '🇭🇰 香港_06', type: ss, server: gateway.two.91tutu.xyz, port: 29806, cipher: chacha20-ietf-poly1305, password: 0aa24fd7-9bd0-42a2-8692-d58007bd0907, udp: true}
-  - { name: '🇭🇰 香港_07', type: ss, server: gateway.three.91tutu.xyz, port: 29807, cipher: chacha20-ietf-poly1305, password: 0aa24fd7-9bd0-42a2-8692-d58007bd0907, udp: true}
-  - { name: '🇭🇰 香港_08', type: ss, server: gateway.four.91tutu.xyz, port: 29818, cipher: chacha20-ietf-poly1305, password: 0aa24fd7-9bd0-42a2-8692-d58007bd0907, udp: true}
+  - {name: '🇭🇰 香港_07', type: ss, server: gateway.three.91tutu.xyz, port: 29807, cipher: chacha20-ietf-poly1305, password: 0aa24fd7-9bd0-42a2-8692-d58007bd0907, udp: true}
+  - {name: '🇭🇰 香港_08', type: ss, server: gateway.four.91tutu.xyz, port: 29818, cipher: chacha20-ietf-poly1305, password: 0aa24fd7-9bd0-42a2-8692-d58007bd0907, udp: true}
   - {name: '🇭🇰 香港_09', type: ss, server: gateway.one.91tutu.xyz, port: 29809, cipher: chacha20-ietf-poly1305, password: 0aa24fd7-9bd0-42a2-8692-d58007bd0907, udp: true}
   - {name: '🇭🇰 香港_10', type: ss, server: gateway.two.91tutu.xyz, port: 29411, cipher: chacha20-ietf-poly1305, password: 0aa24fd7-9bd0-42a2-8692-d58007bd0907, udp: true }
   - {name: 🇯🇵 日本01, server: zzjp01.51tu.pro, port: 39101, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
