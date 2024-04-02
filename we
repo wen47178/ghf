@@ -65,7 +65,7 @@ proxies:
   - {name: 🇯🇵 埃及8, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-kC0bqJle}
   - {name: 🇯🇵 埃及9, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-n1VG7ES0}
   - {name: 🇯🇵 埃及10, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-w0O3dhRo}
-  - {name: 922, server: 192.168.31.93, port: 30000, type: socks5}
+  - {name: 922, server: 192.168.10.252, port: 30000, type: socks5}
 proxy-groups:
   - name: Googleplay
     type: select
